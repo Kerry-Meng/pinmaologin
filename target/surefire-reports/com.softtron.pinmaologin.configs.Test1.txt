@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.softtron.pinmaologin.configs.Test1
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.66 s <<< FAILURE! - in com.softtron.pinmaologin.configs.Test1
+initializationError(com.softtron.pinmaologin.configs.Test1)  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.Exception: The class com.softtron.pinmaologin.configs.Test1 is not public.
+
+initializationError(com.softtron.pinmaologin.configs.Test1)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+
+initializationError(com.softtron.pinmaologin.configs.Test1)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method test() should be public
+
